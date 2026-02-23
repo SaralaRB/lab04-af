@@ -1,0 +1,20 @@
+{
+  "name": "lab04-af",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaralaRB/lab04-af.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaralaRB/lab04-af/issues"
+  },
+  "homepage": "https://github.com/SaralaRB/lab04-af#readme"
+}
